@@ -1,0 +1,1492 @@
+fileFormatVersion: 2
+guid: 52c6395da408f6642a12c6285467fbe3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd9fca288fc37442836f639673f9e6d
+      internalID: 302093750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 177
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92399ba8cacdfde46b09854192c782c8
+      internalID: -485649122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 175
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b3adf34f5fea94cb9431b3af8ffcc9
+      internalID: 579291575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 177
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f85a358ed043364cbe19c0fb993de7d
+      internalID: -483422909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 177
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84c4a4d6a3b72b4686e87226c8f8f0d
+      internalID: -825269583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 177
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca282fea9bab9084dbe9797afbcfff0c
+      internalID: -34485261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 181
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7dbebf3d5219344ace2a2fa451c2e1
+      internalID: -818305052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 181
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf5812547c0e2d418ef997499f90c40
+      internalID: 1250767016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 181
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8676bc6bf20c848a12a81105f3facb
+      internalID: 840402889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 182
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1599f6863ccce4780a7bc8f9192b83
+      internalID: 1558640965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 187
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd04b3993ea9524896e46bd8dbdcd08
+      internalID: -279039003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 187
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf486a45b3656ce4d9754776e34c7890
+      internalID: -647911381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 187
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad481bd682eec4ea8aefdd13dda1ed
+      internalID: 2024631419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 187
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fed5a1125a097419fa07d3a8c8cf98
+      internalID: -1230204475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 149
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27265d4a6119ea4b965161eb3e78b9d
+      internalID: -278106217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 150
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a1814b293e8d34a807ea05ce22984c
+      internalID: 1261112950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 149
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac5f88000b46f43a075cdad44ca69e
+      internalID: 993823163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 153
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b4653aaf1e694da8fc4c1f8d595d5
+      internalID: -1312467215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 153
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6011aec1b34c143b0ae61908891370
+      internalID: -456963459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 153
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5771450a45a084aa4faf84ac62d834
+      internalID: -1806880512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 150
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5135856354924f143988f1d171192feb
+      internalID: 522937852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 151
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d661fb00d599d2d4f899e042e7a21419
+      internalID: 1675132337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 150
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4433af00cb4327943ba897936681050d
+      internalID: -734947271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 161
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d884f26fe2295e49829d08816f31a7e
+      internalID: -1232379006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 161
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b937f4d4c6d024845ad5c16dd53b936a
+      internalID: 1157382999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 161
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b1f6aba7643434991fd3de2a5b8733
+      internalID: 518792687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 161
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d827617440d63e4f903bdc3bde9f3b1
+      internalID: 1381183940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78746454a49adfc4598eb089459f98d2
+      internalID: -1780943748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 123
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be658825227ed146b1bb08cae9b8b4d
+      internalID: 1111047444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 121
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536481ac8cc3a3548a681f240bf16dda
+      internalID: -78512871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 123
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c72d365b81ceb5468aa49278facc8c6
+      internalID: -2009428976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 126
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb3dcfaea4e4d94381a45ea8a8cb51a
+      internalID: -1455252029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 123
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ae3f748bda2d4aa50e431a4f31944
+      internalID: 158931230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 122
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79515008651c07b42ac9f742e7c4be93
+      internalID: 1671392705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 122
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8478e69edd56e0c49a1d9e074b6cef05
+      internalID: 103531852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 122
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548be1b490eb09e4298390b318821248
+      internalID: 2102662195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_36
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 131
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408b92c5bfb3ff54c896facbb5c74cda
+      internalID: -1373040488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 131
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e003b5c8d5d6a742b150cfb9837fc4b
+      internalID: 1648402719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 126
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed35cdc4ec2a6547be8fc4d6836e47f
+      internalID: 1295589879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 124
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7263350b60ca44a9d89c4e0af7cf12
+      internalID: -60652442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ddef9237cb694fa2c538dcb36ea4d
+      internalID: -638043197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 97
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e94d98ee02b5254293fe822f27627b8
+      internalID: -1699197890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_42
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 96
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc785081e3f15749877d9d2fab93a9e
+      internalID: 785486483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 96
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce40dfd49b15864d9755107505a098a
+      internalID: -2122210892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_44
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 96
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b55bb45909ed7468b04b645e2e7941
+      internalID: -1359862232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_45
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 96
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13c860f864b01e41b6d7942f54b8cf0
+      internalID: 1851800606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_46
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 96
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dfc370c56af0e4e981c8388802ff78
+      internalID: 594418261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 97
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913be77e85b8a6147ab4ed6d8705522e
+      internalID: 697129534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_48
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 100
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b925027603f65443b6e28dfb697366e
+      internalID: -1755992190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_49
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 100
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b541aed68245d4dae6ba391b392dfb
+      internalID: -302587825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_50
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 100
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d9f86584007c146aa30f04512dde25
+      internalID: -1885786364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_51
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45487739560502d429e30b691368b75a
+      internalID: -275120894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_52
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 67
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78a39df79108bd44b3f98b0f73816f5
+      internalID: -812235021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66a9df6f6c37664cbdf99e8c3c34414
+      internalID: -1320279943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 40
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14693d985682b85428d7a6bb14479b76
+      internalID: 466967235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 40
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ad8064fbe96a847826f6fc6fcb6753
+      internalID: 1835609912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 40
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0353fdd55738cda4bacf83112b96c8c6
+      internalID: -710982960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_57
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 40
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc250d6fcc129548ba3e83bb7b6f83d
+      internalID: -930733199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_58
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 6
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eedbdba8b0a0c47bb5af52f852e5c3
+      internalID: 1469965575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_59
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22ac33bd0637a545827aa7cf3dd2a87
+      internalID: 1178783213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_60
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c388ccc85beecd4f984a9a41f68cc9a
+      internalID: 1415022866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_61
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 5
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06898d5e950cf6049a25320ef715757b
+      internalID: 1278536867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c81d0abea78e1dd4fab7862c3a6c1308
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_0: 302093750
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_1: -485649122
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_10: -279039003
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_11: -647911381
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_12: 2024631419
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_13: -1230204475
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_14: -278106217
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_15: 1261112950
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_16: 993823163
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_17: -1312467215
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_18: -456963459
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_19: -1806880512
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_2: 579291575
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_20: 522937852
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_21: 1675132337
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_22: -734947271
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_23: -1232379006
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_24: 1157382999
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_25: 518792687
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_26: 1381183940
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_27: -1780943748
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_28: 1111047444
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_29: -78512871
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_3: -483422909
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_30: -2009428976
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_31: -1455252029
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_32: 158931230
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_33: 1671392705
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_34: 103531852
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_35: 2102662195
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_36: -1373040488
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_37: 1648402719
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_38: 1295589879
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_39: -60652442
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_4: -825269583
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_40: -638043197
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_41: -1699197890
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_42: 785486483
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_43: -2122210892
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_44: -1359862232
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_45: 1851800606
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_46: 594418261
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_47: 697129534
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_48: -1755992190
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_49: -302587825
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_5: -34485261
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_50: -1885786364
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_51: -275120894
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_52: -812235021
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_53: -1320279943
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_54: 466967235
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_55: 1835609912
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_56: -710982960
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_57: -930733199
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_58: 1469965575
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_59: 1178783213
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_6: -818305052
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_60: 1415022866
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_61: 1278536867
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_62: -1944619588
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_7: 1250767016
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_8: 840402889
+      Custom Edited - Pokemon Customs - Magikarp Jump Trainer HGSS-Style_9: 1558640965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
