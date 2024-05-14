@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.1810891, g: 0.22244397, b: 0.28283396, a: 1}
+  m_IndirectSpecularColor: {r: 0.18108886, g: 0.2224436, b: 0.28283337, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -719,67 +719,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1016119135}
   m_SourcePrefab: {fileID: 100100000, guid: 6255919779bcbe14aa882539208beea9, type: 3}
---- !u!1001 &2111784272
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1821588901411627849, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5aade8ccfee1c6647b92d743b7d1c01d, type: 2}
-    - target: {fileID: 3014779280407067922, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_Name
-      value: PT_Grass_02_LOD0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4664593788537221054, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -8.21
-      objectReference: {fileID: 0}
-    - target: {fileID: 4664593788537221054, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4664593788537221054, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 13.06
-      objectReference: {fileID: 0}
-    - target: {fileID: 4664593788537221054, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4664593788537221054, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4664593788537221054, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4664593788537221054, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4664593788537221054, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4664593788537221054, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4664593788537221054, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d904e0fe53f7ef24e8ad5364e237b81b, type: 3}
 --- !u!1001 &1011691319995877146
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1079,4 +1018,3 @@ SceneRoots:
   - {fileID: 1011691319995877146}
   - {fileID: 3099683034922779822}
   - {fileID: 205328109}
-  - {fileID: 2111784272}
