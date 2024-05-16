@@ -1,0 +1,34 @@
+{
+    "name": "BaseControls",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "67cd616c-3bd9-475e-b5d5-aefe7b143b10",
+            "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "6a771965-e112-45e2-9067-96c14ba1522b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "112b08b5-68c2-4944-821f-e9c9509fba2e",
+                    "path": "<Keyboard>/space",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
