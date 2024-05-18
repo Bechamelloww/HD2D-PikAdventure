@@ -6,13 +6,15 @@ public class CharacterMovement : MonoBehaviour
     public Animator animator;
     public CharacterController characterController;
     private Vector3 playerVelocity;
-    [SerializeField] public float jumpHeight = 0.3f;
+    [SerializeField] public float jumpHeight = 0.8f;
     public float gravity = -9.81f;
-    public float groundCheckDistance = 0.1f;
+    public int maxJumps = 2;
+    private int jumpsRemaining;
 
     private void Start()
     {
         characterController = GetComponent<CharacterController>();
+        jumpsRemaining = maxJumps;
     }
 
     void Update()
@@ -24,20 +26,21 @@ public class CharacterMovement : MonoBehaviour
         animator.SetFloat("Vertical", verticalInput);
         animator.SetBool("Grounded", characterController.isGrounded);
 
-        Debug.Log(characterController.isGrounded);
-        if (Input.GetButtonDown("Jump") && characterController.isGrounded == true)
+        if (characterController.isGrounded)
         {
-            Debug.Log("JUMPINGGG");
-            playerVelocity.y = Mathf.Sqrt(jumpHeight * -2.0f * gravity);
+            jumpsRemaining = maxJumps;
         }
-        Debug.Log(playerVelocity.y);
+
+        if (Input.GetButtonDown("Jump") && jumpsRemaining > 0)
+        {
+            playerVelocity.y = Mathf.Sqrt(jumpHeight * -2.0f * gravity);
+            jumpsRemaining--;
+        }
 
         Vector3 move = new Vector3(horizontalInput, 0f, verticalInput);
         move = transform.TransformDirection(move);
         characterController.Move(move * Time.deltaTime * speed);
-        
-        
-        
+
         playerVelocity.y += gravity * Time.deltaTime;
         characterController.Move(playerVelocity * Time.deltaTime);
     }

@@ -152,10 +152,8 @@ MonoBehaviour:
   speed: 5
   animator: {fileID: 1094199328390355573}
   characterController: {fileID: 637616595156441367}
-  playerVelocity: {x: 0, y: 0, z: 0}
-  jumpHeight: 4.5
+  jumpHeight: 3.4
   gravity: -9.81
-  groundCheckDistance: 0.1
 --- !u!143 &637616595156441367
 CharacterController:
   m_ObjectHideFlags: 0
