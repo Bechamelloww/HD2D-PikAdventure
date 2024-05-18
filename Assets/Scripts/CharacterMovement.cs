@@ -1,15 +1,14 @@
 using UnityEngine;
 
-public class CharacterControllerScript : MonoBehaviour
+public class CharacterMovement : MonoBehaviour
 {
     public float speed = 5f;
     public Animator animator;
-    private CharacterController characterController;
-    public Vector3 playerVelocity;
-    public bool groundedPlayer;
+    public CharacterController characterController;
+    private Vector3 playerVelocity;
     [SerializeField] public float jumpHeight = 0.3f;
-    public bool jumpPressed = false;
     public float gravity = -9.81f;
+    public float groundCheckDistance = 0.1f;
 
     private void Start()
     {
@@ -18,30 +17,27 @@ public class CharacterControllerScript : MonoBehaviour
 
     void Update()
     {
-        groundedPlayer = characterController.isGrounded;
-
-        if (groundedPlayer)
-        {
-            Debug.Log("IsGorunded : " + groundedPlayer);
-            playerVelocity.y = 0f;
-        }
-
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
 
         animator.SetFloat("Horizontal", horizontalInput);
         animator.SetFloat("Vertical", verticalInput);
+        animator.SetBool("Grounded", characterController.isGrounded);
+
+        Debug.Log(characterController.isGrounded);
+        if (Input.GetButtonDown("Jump") && characterController.isGrounded == true)
+        {
+            Debug.Log("JUMPINGGG");
+            playerVelocity.y = Mathf.Sqrt(jumpHeight * -2.0f * gravity);
+        }
+        Debug.Log(playerVelocity.y);
 
         Vector3 move = new Vector3(horizontalInput, 0f, verticalInput);
         move = transform.TransformDirection(move);
         characterController.Move(move * Time.deltaTime * speed);
-
-        // Jumping
-        if (Input.GetButtonDown("Jump") && groundedPlayer)
-        {
-            playerVelocity.y += Mathf.Sqrt(jumpHeight * -2.0f * gravity);
-        }
-
+        
+        
+        
         playerVelocity.y += gravity * Time.deltaTime;
         characterController.Move(playerVelocity * Time.deltaTime);
     }
