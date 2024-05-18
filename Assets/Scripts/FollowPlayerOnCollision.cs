@@ -1,42 +1,42 @@
 using UnityEngine;
-using System.Collections.Generic;
 
-public class FollowPlayerOnCollision : MonoBehaviour
+public class FollowPlayer : MonoBehaviour
 {
-    public float followDistance = 2.0f;
-    public float moveSpeed = 5.0f;
-    public float minimumDistance = 1.5f; // Distance minimale avec les autres objets et le joueur
-    private Transform playerTransform;
-    private bool shouldFollow = false;
+    public Transform player;
+    public float followSpeed = 5f;
+    public float minDistance = 2f;
+
+    private Rigidbody rb;
+    private bool isColliding = false;
+    public Animator animator;
 
     void Start()
     {
-        // Initialisation des variables si nécessaire
+        rb = GetComponent<Rigidbody>();
+        if (player == null)
+        {
+            Debug.LogError("Le joueur n'est pas défini pour le suivi.");
+        }
     }
 
-    void Update()
+    void FixedUpdate()
     {
-        if (shouldFollow && playerTransform != null)
+        float horizontalInput = Input.GetAxis("Horizontal");
+        float verticalInput = Input.GetAxis("Vertical");
+
+        animator.SetFloat("Horizontal", horizontalInput);
+        animator.SetFloat("Vertical", verticalInput);
+        if (isColliding && player != null)
         {
-            // Calculer la direction et la distance vers le joueur
-            Vector3 directionToPlayer = playerTransform.position - transform.position;
-            float distanceToPlayer = directionToPlayer.magnitude;
+            Vector3 direction = player.position - transform.position;
 
-            // Vérifier la distance minimale avec le joueur
-            if (distanceToPlayer > followDistance)
+            if (direction.magnitude > minDistance)
             {
-                Vector3 targetPosition = playerTransform.position - directionToPlayer.normalized * followDistance;
-                transform.position = Vector3.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
-            }
+                direction.Normalize();
 
-            Collider[] hitColliders = Physics.OverlapSphere(transform.position, minimumDistance);
-            foreach (var hitCollider in hitColliders)
-            {
-                if (hitCollider.gameObject != gameObject && hitCollider.gameObject != playerTransform.gameObject)
-                {
-                    Vector3 directionAwayFromCollider = transform.position - hitCollider.transform.position;
-                    transform.position += directionAwayFromCollider.normalized * (minimumDistance - directionAwayFromCollider.magnitude);
-                }
+                Vector3 moveDirection = direction * followSpeed * Time.fixedDeltaTime;
+
+                rb.MovePosition(transform.position + moveDirection);
             }
         }
     }
@@ -45,8 +45,8 @@ public class FollowPlayerOnCollision : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            playerTransform = other.transform;
-            shouldFollow = true;
+            player = other.transform;
+            isColliding = true;
         }
     }
 
@@ -54,8 +54,8 @@ public class FollowPlayerOnCollision : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            shouldFollow = false;
-            playerTransform = null;
+            //player = null;
+            //isColliding = false;
         }
     }
 }
