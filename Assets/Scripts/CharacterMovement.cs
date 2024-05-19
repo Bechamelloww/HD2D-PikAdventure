@@ -19,6 +19,7 @@ public class CharacterMovement : MonoBehaviour
 
     void Update()
     {
+        Debug.Log(GlobalScore.Score);
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
 

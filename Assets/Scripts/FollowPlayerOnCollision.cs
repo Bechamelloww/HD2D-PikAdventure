@@ -46,6 +46,9 @@ public class FollowPlayer : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             player = other.transform;
+            if (!isColliding) { 
+                GlobalScore.IncrementScore();
+            }
             isColliding = true;
         }
     }
