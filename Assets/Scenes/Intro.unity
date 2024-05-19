@@ -18207,6 +18207,10 @@ PrefabInstance:
       value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 2517779858970224027, guid: ea9498b99ad138640ae2e3b2641acf9e, type: 3}
+      propertyPath: jumpingSound
+      value: 
+      objectReference: {fileID: 847171266474070584}
+    - target: {fileID: 2517779858970224027, guid: ea9498b99ad138640ae2e3b2641acf9e, type: 3}
       propertyPath: groundedPlayer
       value: 1
       objectReference: {fileID: 0}
@@ -18280,6 +18284,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ea9498b99ad138640ae2e3b2641acf9e, type: 3}
+--- !u!82 &847171266474070584 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 8541594205951038143, guid: ea9498b99ad138640ae2e3b2641acf9e, type: 3}
+  m_PrefabInstance: {fileID: 847171266474070583}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1463522058979919241
 PrefabInstance:
   m_ObjectHideFlags: 0

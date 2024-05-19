@@ -9,14 +9,11 @@ public class FollowPlayer : MonoBehaviour
     private Rigidbody rb;
     private bool isColliding = false;
     public Animator animator;
+    [SerializeField] private AudioSource crySound;
 
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        if (player == null)
-        {
-            Debug.LogError("Le joueur n'est pas défini pour le suivi.");
-        }
     }
 
     void FixedUpdate()
@@ -48,6 +45,10 @@ public class FollowPlayer : MonoBehaviour
             player = other.transform;
             if (!isColliding) { 
                 GlobalScore.IncrementScore();
+                if (crySound != null)
+                {
+                    crySound.Play();
+                }
             }
             isColliding = true;
         }

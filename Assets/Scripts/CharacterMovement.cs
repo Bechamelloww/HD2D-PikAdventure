@@ -7,6 +7,7 @@ public class CharacterMovement : MonoBehaviour
     public CharacterController characterController;
     private Vector3 playerVelocity;
     [SerializeField] public float jumpHeight = 0.8f;
+    [SerializeField] private AudioSource jumpingSound;
     public float gravity = -9.81f;
     public int maxJumps = 2;
     private int jumpsRemaining;
@@ -34,6 +35,10 @@ public class CharacterMovement : MonoBehaviour
 
         if (Input.GetButtonDown("Jump") && jumpsRemaining > 0)
         {
+            if (jumpingSound != null)
+            {
+                jumpingSound.Play();
+            }
             playerVelocity.y = Mathf.Sqrt(jumpHeight * -2.0f * gravity);
             jumpsRemaining--;
         }

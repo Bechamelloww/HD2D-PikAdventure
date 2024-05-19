@@ -14,7 +14,6 @@ public class GlobalScore : MonoBehaviour
     public static void IncrementScore()
     {
         score++;
-        Debug.Log("Score: " + score);
     }
 
     void Update()
