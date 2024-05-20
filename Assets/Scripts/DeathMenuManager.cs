@@ -10,7 +10,7 @@ public class DeathMenuManager : MonoBehaviour
     public AudioClip deathSound;
     public AudioClip damageSound;
 
-    private int health = 3; // Vie initiale
+    public int health = 3;
 
     private void Start()
     {
