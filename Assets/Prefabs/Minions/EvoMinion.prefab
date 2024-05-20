@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 807212076866860496}
   - component: {fileID: 7052830195349755278}
   m_Layer: 0
-  m_Name: PikaMinion 1
+  m_Name: EvoMinion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -228,7 +228,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1009026210, guid: 6a01eccf81b95f04abda1ae9c03bee02, type: 3}
+  m_Sprite: {fileID: -901105969, guid: a455160f8f89cd44aaeeee95a8485396, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -270,7 +270,7 @@ Animator:
   m_GameObject: {fileID: 4276310599771172212}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ebeada750b64ff740b20708f2e028897, type: 2}
+  m_Controller: {fileID: 9100000, guid: ea9119121223bd34ab0a4c53995573cb, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -292,7 +292,7 @@ GameObject:
   - component: {fileID: 1614238727580510958}
   - component: {fileID: 7881956167119093269}
   m_Layer: 0
-  m_Name: pikachuu
+  m_Name: cry
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -323,7 +323,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 71dfb3cfd1d529143b316874c0d47309, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 2ee8bc9efccac0f47bc7ec29c8465a08, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1

@@ -16,6 +16,11 @@ public class GlobalScore : MonoBehaviour
         score++;
     }
 
+    public static void ResetScore()
+    {
+        score = 0;
+    }
+
     void Update()
     {
         scoreText.text = Score.ToString();
