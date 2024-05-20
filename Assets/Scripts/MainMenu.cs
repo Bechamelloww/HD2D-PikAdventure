@@ -12,6 +12,11 @@ public class MainMenuManager : MonoBehaviour
         Application.Quit();
     }
 
+    public void SkipToMainMenu()
+    {
+        SceneManager.LoadScene("Main Menu");
+    }
+
     public void OnClickBegin()
     {
         SceneManager.LoadScene("Intro");
