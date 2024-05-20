@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MenuManager : MonoBehaviour
 {
@@ -41,6 +42,12 @@ public class MenuManager : MonoBehaviour
         CloseMenus();
     }
 
+    public void QuitToMainMenu()
+    {
+        SceneManager.LoadScene("Main Menu");
+        GlobalScore.ResetScore();
+    }
+
     public void QuitGame()
     {
         Application.Quit();
@@ -59,6 +66,12 @@ public class MenuManager : MonoBehaviour
     public void OnClickResume()
     {
         Unpause();
+    }
+
+    public void OnClickQuitToMainMenu()
+    {
+        Unpause();
+        QuitToMainMenu();
     }
 
     public void OnClickQuit()

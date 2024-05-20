@@ -12,11 +12,6 @@ public class MainMenuManager : MonoBehaviour
         Application.Quit();
     }
 
-    private void CloseMenus()
-    {
-        _mainMenuCanvasGO?.SetActive(false);
-    }
-
     public void OnClickBegin()
     {
         SceneManager.LoadScene("Intro");

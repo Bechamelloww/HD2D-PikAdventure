@@ -3,10 +3,16 @@ using UnityEngine;
 public class ScoreBasedVisibility : MonoBehaviour
 {
     public GameObject objectGroup;
-    public int requiredScore;
+    public int newRequiredScore;
+
+    void Start()
+    {
+        GlobalScore.RequiredScore = 0;
+    }
 
     void Update()
     {
-        objectGroup.SetActive(GlobalScore.Score >= requiredScore);
+        GlobalScore.RequiredScore = newRequiredScore;
+        objectGroup.SetActive(GlobalScore.Score >= GlobalScore.RequiredScore);
     }
 }
