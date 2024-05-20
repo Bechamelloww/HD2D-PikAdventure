@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: bc38383372ea2324d97685d51953b7aa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Blood_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 183
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0dcbd4f8df4224cad32d12d8fbb37e
+      internalID: -2095962782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Blood_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 176
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b22c487dd50be34f88a6faeef4ee360
+      internalID: 2009541512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Blood_38
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 172
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4404bfa31d2e2a449b443a3bcf5edbda
+      internalID: 844361604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Blood_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 165
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c889c551bc86c4480e1f82a20ca8a5
+      internalID: -1075095832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Blood_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ae0c02b8152c446af9edc3bf667eed
+      internalID: 433648608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Blood_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 43
+        width: 119
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f968caeb211bfd942b34056d903e0b23
+      internalID: 1357363514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Blood_53
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 39
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ba5a7b38125b941a65a679ee788ac8
+      internalID: -612054774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 5 - Blood_61
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 43
+        width: 121
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c4d3f1f605d32418e05f093145bfb8
+      internalID: 662200974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3cc31a1d5ff66914888b116d8526341a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 5 - Blood_0: -597641186
+      Neo Geo NGCD - Metal Slug 5 - Blood_1: -1871013219
+      Neo Geo NGCD - Metal Slug 5 - Blood_10: -633994491
+      Neo Geo NGCD - Metal Slug 5 - Blood_11: -3200844
+      Neo Geo NGCD - Metal Slug 5 - Blood_12: 357024704
+      Neo Geo NGCD - Metal Slug 5 - Blood_13: 758579494
+      Neo Geo NGCD - Metal Slug 5 - Blood_14: 349174453
+      Neo Geo NGCD - Metal Slug 5 - Blood_15: 1391741076
+      Neo Geo NGCD - Metal Slug 5 - Blood_16: 508872227
+      Neo Geo NGCD - Metal Slug 5 - Blood_17: -1067414102
+      Neo Geo NGCD - Metal Slug 5 - Blood_18: 389850867
+      Neo Geo NGCD - Metal Slug 5 - Blood_19: 2024879100
+      Neo Geo NGCD - Metal Slug 5 - Blood_2: -953240335
+      Neo Geo NGCD - Metal Slug 5 - Blood_20: -356012278
+      Neo Geo NGCD - Metal Slug 5 - Blood_21: 1874002242
+      Neo Geo NGCD - Metal Slug 5 - Blood_22: -1616491774
+      Neo Geo NGCD - Metal Slug 5 - Blood_23: 766005246
+      Neo Geo NGCD - Metal Slug 5 - Blood_24: 1868883735
+      Neo Geo NGCD - Metal Slug 5 - Blood_25: 1199298804
+      Neo Geo NGCD - Metal Slug 5 - Blood_26: 179518578
+      Neo Geo NGCD - Metal Slug 5 - Blood_27: 1433252686
+      Neo Geo NGCD - Metal Slug 5 - Blood_28: -283793395
+      Neo Geo NGCD - Metal Slug 5 - Blood_29: 1642513428
+      Neo Geo NGCD - Metal Slug 5 - Blood_3: 512297207
+      Neo Geo NGCD - Metal Slug 5 - Blood_30: -606036374
+      Neo Geo NGCD - Metal Slug 5 - Blood_31: -1453538407
+      Neo Geo NGCD - Metal Slug 5 - Blood_32: 97654617
+      Neo Geo NGCD - Metal Slug 5 - Blood_33: -474509691
+      Neo Geo NGCD - Metal Slug 5 - Blood_34: -389928117
+      Neo Geo NGCD - Metal Slug 5 - Blood_35: 852095674
+      Neo Geo NGCD - Metal Slug 5 - Blood_36: -2095962782
+      Neo Geo NGCD - Metal Slug 5 - Blood_37: 2009541512
+      Neo Geo NGCD - Metal Slug 5 - Blood_38: 844361604
+      Neo Geo NGCD - Metal Slug 5 - Blood_39: -1075095832
+      Neo Geo NGCD - Metal Slug 5 - Blood_4: -1689137325
+      Neo Geo NGCD - Metal Slug 5 - Blood_40: 433648608
+      Neo Geo NGCD - Metal Slug 5 - Blood_41: 1357363514
+      Neo Geo NGCD - Metal Slug 5 - Blood_42: 1415564810
+      Neo Geo NGCD - Metal Slug 5 - Blood_43: 183695065
+      Neo Geo NGCD - Metal Slug 5 - Blood_44: -397675263
+      Neo Geo NGCD - Metal Slug 5 - Blood_45: 907574638
+      Neo Geo NGCD - Metal Slug 5 - Blood_46: 29281915
+      Neo Geo NGCD - Metal Slug 5 - Blood_47: -748662644
+      Neo Geo NGCD - Metal Slug 5 - Blood_48: 141164086
+      Neo Geo NGCD - Metal Slug 5 - Blood_49: 544903489
+      Neo Geo NGCD - Metal Slug 5 - Blood_5: 1499349074
+      Neo Geo NGCD - Metal Slug 5 - Blood_50: -959209571
+      Neo Geo NGCD - Metal Slug 5 - Blood_51: 220840985
+      Neo Geo NGCD - Metal Slug 5 - Blood_52: -2053564369
+      Neo Geo NGCD - Metal Slug 5 - Blood_53: -612054774
+      Neo Geo NGCD - Metal Slug 5 - Blood_54: 1470793030
+      Neo Geo NGCD - Metal Slug 5 - Blood_55: 503049708
+      Neo Geo NGCD - Metal Slug 5 - Blood_56: 1123750503
+      Neo Geo NGCD - Metal Slug 5 - Blood_57: 1808230418
+      Neo Geo NGCD - Metal Slug 5 - Blood_58: -1385528459
+      Neo Geo NGCD - Metal Slug 5 - Blood_59: 1160094984
+      Neo Geo NGCD - Metal Slug 5 - Blood_6: -1895796794
+      Neo Geo NGCD - Metal Slug 5 - Blood_60: 396726715
+      Neo Geo NGCD - Metal Slug 5 - Blood_61: 662200974
+      Neo Geo NGCD - Metal Slug 5 - Blood_62: -1269473688
+      Neo Geo NGCD - Metal Slug 5 - Blood_63: 740825815
+      Neo Geo NGCD - Metal Slug 5 - Blood_64: 2019449228
+      Neo Geo NGCD - Metal Slug 5 - Blood_65: -1663632274
+      Neo Geo NGCD - Metal Slug 5 - Blood_66: 1618191657
+      Neo Geo NGCD - Metal Slug 5 - Blood_7: 679448298
+      Neo Geo NGCD - Metal Slug 5 - Blood_8: -863059582
+      Neo Geo NGCD - Metal Slug 5 - Blood_9: 878686420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

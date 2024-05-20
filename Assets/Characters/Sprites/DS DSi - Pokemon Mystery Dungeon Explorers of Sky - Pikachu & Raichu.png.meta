@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: 6a01eccf81b95f04abda1ae9c03bee02
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 113
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c5e7549e69ea54cbab8d3c28785021
+      internalID: 344022234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 113
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d02e068631031947b21875591b4e955
+      internalID: 2146562822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 113
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72c99f6d8c2bf54f8d920c7d0eaffde
+      internalID: -1822708276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 113
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0560122768b17e549af99aa22e1fbdce
+      internalID: -362424663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 113
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91008e6d34dc73c4fab657db33c1e403
+      internalID: -1009026210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 113
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199e24e24e555484dbb6cee5b2cb11ce
+      internalID: 1483323859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b79383ef6b8654682533660acc1ded
+      internalID: 1950086910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 86
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd9257be2d119418767ea6a2da8967
+      internalID: -1536892347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 86
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5890bee33a972a44187c13f2f34e639d
+      internalID: 93377536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 86
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3418554c28b287f41a4c698be036a646
+      internalID: -1777677298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 86
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f563cb637890f34429e2f2a283365d2a
+      internalID: -1306658714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 86
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085d37cd30bc4ba45a32cf412fb1ac3a
+      internalID: -590965144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 61
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e465ed741504948b31f6cf5b17b2f0
+      internalID: 1568169504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 61
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35930b0f1740814c950baef20cecb8a
+      internalID: 1650449261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 61
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0648fe77b0712ae41a1cd9d8a2e9584b
+      internalID: 1208892252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 61
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a180722eaf6fb498bbd2ed02d5a6d6
+      internalID: 1331949182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 61
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff46b54da57490468fedf6d7a27ae74
+      internalID: -1205550799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 61
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40fc12e96351de45be1ca56822dcc65
+      internalID: 1385273497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 33
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea6974e68ef9494f981bf0efd4361c0
+      internalID: -2098842078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 33
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db784d36be798bb428ec114ccdf7ed51
+      internalID: -1978708492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 33
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59392e624b24da4088716653b363298
+      internalID: 1228293206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 33
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8e72a0d7ece00468b8db3ce0f9432c
+      internalID: -1082813830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 33
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629037dc1023324d8c6dc1b164376dc
+      internalID: -407862457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 33
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141c2b40960ab384aae111df3441a7f3
+      internalID: 1112972965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de38ac5c43f0ac4b956909c52b8cce8
+      internalID: -1306229902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b99ba52dec62746b1bda7e5f09421d
+      internalID: 1292874067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e33fd21acc59c4fac1b4b3f11bb70e
+      internalID: 1431069727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afcd687263960b489a955915388a7ec
+      internalID: 1121509973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e618f8180e0e9848a96237200dbb16c
+      internalID: -1446518307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0a3eaeafa63354ca50f5e79087a427
+      internalID: 970493310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e8e51f690933c454f9148d4119b53c65
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_0: 344022234
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_1: 2146562822
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_10: -1306658714
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_11: -590965144
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_12: 1568169504
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_13: 1650449261
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_14: 1208892252
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_15: 1331949182
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_16: -1205550799
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_17: 1385273497
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_18: -2098842078
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_19: -1978708492
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_2: -1822708276
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_20: 1228293206
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_21: -1082813830
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_22: -407862457
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_23: 1112972965
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_24: -1306229902
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_25: 1292874067
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_26: 1431069727
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_27: 1121509973
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_28: -1446518307
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_29: 970493310
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_3: -362424663
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_4: -1009026210
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_5: 1483323859
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_6: 1950086910
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_7: -1536892347
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_8: 93377536
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - Pikachu & Raichu_9: -1777677298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
