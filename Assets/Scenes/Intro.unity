@@ -5258,8 +5258,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.15776685, y: 0.2361981, z: 0.07769413}
-  m_Center: {x: 0.0073745726, y: -0.3619005, z: 0.003220805}
+  m_Size: {x: 0.28297442, y: 0.3094783, z: 0.29641417}
+  m_Center: {x: 0.0056816987, y: -0.32526016, z: -0.016199324}
 --- !u!114 &392398668
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21297,7 +21297,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.87169814, g: 0.25493047, b: 0.25493047, a: 0.8980392}
+  m_Color: {r: 0.82641506, g: 0.17307939, b: 0.17307939, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -23103,7 +23103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c94faa2c5139034e927e6131b5caeb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Main Menu
+  sceneName: Credits
 --- !u!1001 &1697436814
 PrefabInstance:
   m_ObjectHideFlags: 0
